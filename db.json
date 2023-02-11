@@ -7,5 +7,17 @@
         "email": "gtatterton0@ehow.com",
         "password":"123"
       }
+    ],
+    "blogs":[
+      {
+        "id":1,
+        "username":"mitresh",
+        "title":"Title1",
+        "content":"Content",
+        "category":"tech",
+        "date":"2023-02-10",
+        "likes":0,
+        "comments":[]
+      }
     ]
   }
