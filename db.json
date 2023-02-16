@@ -2,22 +2,9 @@
     "users": [
       {
         "id": 1,
-        "username": "Gertrudis Tatterton",
-        "avatar": 18,
-        "email": "gtatterton0@ehow.com",
+        "username": "user1",
+        "email": "user1@gmail.com",
         "password":"123"
-      }
-    ],
-    "blogs":[
-      {
-        "id":1,
-        "username":"mitresh",
-        "title":"Title1",
-        "content":"Content",
-        "category":"tech",
-        "date":"2023-02-10",
-        "likes":0,
-        "comments":[]
       }
     ]
   }
